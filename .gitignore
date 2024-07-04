@@ -1,0 +1,13 @@
+# VSCode
+**/.vscode/
+**/.vscode-ctags
+/build/
+
+**/*.dSYM/
+**/*.bc
+**/*.o
+**/*.mi
+**/*.s
+
+objc-sel-stub-test
+objc-sel-no-stub-test
